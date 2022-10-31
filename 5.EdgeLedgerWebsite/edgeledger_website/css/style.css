@@ -82,10 +82,12 @@ p {
   padding: 0.5rem 2rem;
   border: none;
   border-radius: 5px;
+  
 }
 
 .btn:hover {
   background: #7ab436;
+  color:#000;
 }
 
 .btn-dark {
@@ -220,4 +222,6 @@ p {
 #contact .contact-form textarea {
   width: 100%;
   padding: 0.5rem;
+  border:none;
+  border-radius: 0.2rem;
 }
